@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Domingos-Masta
-- 👀 I’m interested in Cience and Pop Culture
+- 👀 I’m interested in TI, Programing Languages, Proccess Automation, Cience and Pop Culture
 - 🌱 I’m currently learning Billing and AI
 - 💞️ I’m looking to collaborate on Interesting Open Sources Projects
 - 📫 How to reach me e1000014692@gmail.com
